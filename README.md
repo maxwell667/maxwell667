@@ -58,10 +58,10 @@
 
 <div align="center">
   <a href="https://linux.do/" target="_blank">
-    <img src="https://img.shields.io/badge/LINUX_DO-COMMUNITY-22D3EE?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;labelColor=161B22" alt="LINUX DO 社区" />
+    <img src="https://img.shields.io/badge/LINUX_DO-COMMUNITY-22D3EE?style=for-the-badge&logo=linux&logoColor=white&labelColor=161B22" alt="LINUX DO 社区" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:allan@allan-poe.com">
-    <img src="https://img.shields.io/badge/Email-allan%40allan-poe.com-39FFB6?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=161B22" alt="Email: allan@allan-poe.com" />
+    <img src="https://img.shields.io/badge/Email-allan%40allan--poe.com-39FFB6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Email: allan@allan-poe.com" />
   </a>
 </div>
