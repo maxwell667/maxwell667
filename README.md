@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👨‍💻 Hi there, I'm Maxwell</h1>
+  <h1>👨‍💻 Hi there, I'm Allan</h1>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2000&amp;pause=1000&amp;color=39FFB6&amp;center=true&amp;multiline=true&amp;repeat=true&amp;width=560&amp;height=100&amp;lines=Maxwell+Profile+%3E+Initializing...;Automating+workflows...;Deep+API+integration...;LINUX+DO+for+life!" alt="Typing Banner" />
@@ -17,7 +17,7 @@
 
   <!-- 8.0s 像素复古 CRT 极客打字终端动图 -->
   <p>
-    <img src="./coder.gif" width="640" alt="Maxwell Coding" style="border-radius: 8px;" />
+    <img src="./coder.gif" width="640" alt="Allan Coding" style="border-radius: 8px;" />
   </p>
 
 </div>
