@@ -3,7 +3,7 @@
   <h1>👨‍💻 Hi there, I'm Allan</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2000&amp;pause=1000&amp;color=39FFB6&amp;center=true&amp;multiline=true&amp;repeat=true&amp;width=560&amp;height=100&amp;lines=Maxwell+Profile+%3E+Initializing...;Automating+workflows...;Deep+API+integration...;LINUX+DO+for+life!" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2000&amp;pause=1000&amp;color=39FFB6&amp;center=true&amp;multiline=true&amp;repeat=true&amp;width=560&amp;height=100&amp;lines=Allan+Profile+%3E+Initializing...;Automating+workflows...;Deep+API+integration...;LINUX+DO+for+life!" alt="Typing Banner" />
   </p>
 
   <p>
