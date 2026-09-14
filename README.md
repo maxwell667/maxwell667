@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/LINUX_DO-COMMUNITY-22D3EE?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;labelColor=161B22" alt="LINUX DO 社区" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:maxwell00521@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maxwell00521%40gmail.com-39FFB6?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=161B22" alt="Email: maxwell00521@gmail.com" />
+  <a href="mailto:allan@allan-poe.com">
+    <img src="https://img.shields.io/badge/Email-allan%40allan-poe.com-39FFB6?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335&amp;labelColor=161B22" alt="Email: allan@allan-poe.com" />
   </a>
 </div>
